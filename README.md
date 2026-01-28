@@ -2,7 +2,7 @@
 
 ## Complete Step-by-Step Guide (Industry Level)
     
-> **What you will build (simple words):**  
+> **What you will build (simple words):**   
 > You will build a **professional cloud web application** that is: 
  
 * Written as a simple web app   
