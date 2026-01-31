@@ -5,7 +5,7 @@
 > **What you will build (simple words):**   
 > You will build a **professional cloud web application** that is: 
    
-* Written as a simple web app    
+* Written as a simple web app     
 * Packed using **Docker**    
 * Deployed on **AWS EKS (Kubernetes)**    
 * Exposed to the internet 
