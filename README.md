@@ -1,6 +1,6 @@
 # Project 1 - Professional Cloud Web Application
 
-## Complete Step-by-Step Guide (Industry Level)
+## Complete Step-by-Step Guide (Industry Level) 
      
 > **What you will build (simple words):**   
 > You will build a **professional cloud web application** that is:  
