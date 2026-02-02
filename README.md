@@ -6,7 +6,7 @@
 > You will build a **professional cloud web application** that is:  
    
 * Written as a simple web app     
-* Packed using **Docker**     
+* Packed using **Docker**      
 * Deployed on **AWS EKS (Kubernetes)**     
 * Exposed to the internet  
 * Auto-scaled like a real company project
