@@ -8,7 +8,7 @@
 * Written as a simple web app      
 * Packed using **Docker**       
 * Deployed on **AWS EKS (Kubernetes)**        
-* Exposed to the internet  
+* Exposed to the internet   
 * Auto-scaled like a real company project
  
 This guide is written **exactly how real DevOps / Cloud engineers work in companies**, step-by-step, with **commands, code, and results**.
