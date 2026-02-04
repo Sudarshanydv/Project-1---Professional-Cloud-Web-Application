@@ -7,7 +7,7 @@
     
 * Written as a simple web app      
 * Packed using **Docker**       
-* Deployed on **AWS EKS (Kubernetes)**       
+* Deployed on **AWS EKS (Kubernetes)**        
 * Exposed to the internet  
 * Auto-scaled like a real company project
  
