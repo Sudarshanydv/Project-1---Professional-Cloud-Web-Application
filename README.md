@@ -29,7 +29,7 @@ A professional cloud web application:
 
 Companies **never run apps manually**. Everything is automated and managed.
 
----
+--- 
 
 ## 2️⃣ Real Industry Architecture Flow
 
