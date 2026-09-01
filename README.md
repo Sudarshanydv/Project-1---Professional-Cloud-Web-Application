@@ -12,7 +12,7 @@
    
 This guide is written **exactly how real DevOps / Cloud engineers work in companies**, step-by-step, with **commands, code, and results**.
 
----
+--- 
 
 ## 1️⃣ What is a Professional Cloud Web Application?
 
